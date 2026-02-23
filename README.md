@@ -1,1 +1,1 @@
-This repo contains shell basics scripts for the ALX/Zero Day project.
+ALX Shell Basics project: scripts for shell tasks
