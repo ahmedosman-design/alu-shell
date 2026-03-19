@@ -1,0 +1,6 @@
+i
+#!/bin/bash
+tail /etc/passwd
+ESC
+:wq
+ENTER
