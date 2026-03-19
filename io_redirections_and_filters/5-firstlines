@@ -1,6 +1,2 @@
-i
 #!/bin/bash
 head /etc/passwd
-ESC
-:wq
-ENTER
